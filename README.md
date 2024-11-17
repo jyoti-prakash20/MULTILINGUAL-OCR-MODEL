@@ -13,8 +13,11 @@ Acknowledgements
 The Multilingual OCR System is designed to read text from images, recognize and translate it into multiple languages. The project integrates various libraries and APIs to ensure high accuracy and efficiency in text extraction and translation.
 # Features
 Image Preprocessing: Enhances image quality for better OCR performance using OpenCV.
+
 Text Extraction: Utilizes Pytesseract for character recognition with CNNs and LSTM networks.
+
 Multilingual Translation: Supports translation into multiple languages using Googletrans.
+
 User-Friendly GUI: Provides an intuitive interface for users to upload images and view results using Tkinter.
 # Technologies used 
 OpenCV: Used for image preprocessing tasks such as noise reduction, thresholding, and edge detection.
