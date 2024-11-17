@@ -1,1 +1,2 @@
 # MULTILINGUAL-OCR-MODEL
+Welcome to the Multilingual OCR System project! This project leverages advanced technologies and APIs such as OpenCV, Pytesseract, Googletrans, PIL, and Tkinter to achieve efficient text extraction and translation from images. This system is particularly useful in the fintech industry for automating various tasks such as data entry, KYC processes, invoice processing, cheque clearing, and improving customer service.
